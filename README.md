@@ -28,5 +28,5 @@ JavaScript :    * Created 3 JavaScript files for smooth functioning and the prog
  *PURPOSE:  "cart.js" , this  is created for storing all the values of the product, which are selected along with it's details,
              by retrieving data from the "mai.js"(page 1).
              
-                       [ Used let keyword, DOMS(ID and .InnerHTML), json.parse, localstrorage, .getItem, .map(), reduce, img width, onclick,<div>,
-                         <h3>,<a>, push(), JSON.stringify(), array, if, else, elseif, <button>,etc.]
+              [ Used let keyword, DOMS(ID and .InnerHTML), json.parse, localstrorage, .getItem, .map(), reduce, img width, onclick,<div>,
+                <h3>,<a>, push(), JSON.stringify(), array, if, else, elseif, <button>,etc.]
