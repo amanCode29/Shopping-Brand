@@ -1,5 +1,5 @@
 # Shopping-Brand
-It is a comapny named VêTEMENT POUVOIR means as "Cloathing Power" in French.
+A company named "VêTEMENT POUVOIR" means as "Cloathing Power" in French.
 Middle Class and Upper Class People of India prefer brand name with sounds classy and foreign .
 
 HTML : * In <head> tag  <meta> tag, title, linked css and bootstrap icons link,  
