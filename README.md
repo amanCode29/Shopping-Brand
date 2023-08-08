@@ -10,23 +10,24 @@ HTML :   * In <head> tag  <meta> tag, title, linked css and bootstrap icons link
 
 CSS :    * Used "." (for class representaion), Bootstrap icons for different icons, like +,-,cart etc.
          * Used color "#6a040f" from Color.co ,for nav and border color. i used color which are prefered by target customers, and looks classy.
-         * Other element like justify alignment, alig-text, align-items,boarder, boardeer-radius, background-color, color,
-            font wieght, display-flex,flex-direction display-grid, cursor, padding, margin, position, fontfamily,<i>,<a>, @media etc..
+         
+           "Building Blocks": like justify alignment, alig-text, align-items,boarder, boardeer-radius, background-color, color,
+            font wieght, display-flex,flex-direction display-grid, cursor, padding, margin, position, fontfamily,<i>,<a>, @media etc.
          
 JavaScript :    * Created 3 JavaScript files for smooth functioning and the programming of each file, name "main.js","cart.js" and"Data.js".
 
  *PURPOSE:  "main.js" is used to retrieve the data from localstorage, generating product cart with all details, (increment and decrement, 
               update the selected items, to calculate the total items and price) with the help of Arrow function.
                      
-             [ Used json.parse, Undefined, localStorage.getItem() , $, ternary operator, join(""), .map(), let keyword,
-               <div>, onclick, .find(), Console.log(), Doms(ID with innerHTMl), arrow function, json.stringify() etc.]
+           "Building Blocks": Used json.parse, Undefined, localStorage.getItem() , $, ternary operator, join(""), .map(), let keyword,
+               <div>, onclick, .find(), Console.log(), Doms(ID with innerHTMl), arrow function, json.stringify() etc.
                        
  *PURPOSE:   "Data.js" is used to store all the data like id,image,price,name are stored.
                      
-              [ Used  let keyword to declared a variable "shopItemsData" and  Value in "key:value" pairs.]
+            "Building Blocks" : Used  let keyword to declared a variable "shopItemsData" and  Value in "key:value" pairs.
                           
  *PURPOSE:  "cart.js" , this  is created for storing all the values of the product, which are selected along with it's details,
              by retrieving data from the "mai.js"(page 1).
              
-              [ Used let keyword, DOMS(ID and .InnerHTML), json.parse, localstrorage, .getItem, .map(), reduce, img width, onclick,<div>,
-                <h3>,<a>, push(), JSON.stringify(), array, if, else, elseif, <button>,etc.]
+               "Building Blocks": Used let keyword, DOMS(ID and .InnerHTML), json.parse, localstrorage, .getItem, .map(), reduce, img width, onclick,<div>,
+                <h3>,<a>, push(), JSON.stringify(), array, if, else, elseif, <button>,etc.
